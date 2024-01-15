@@ -46,10 +46,10 @@ h1, h2, h3, h4, h5 {
 	border: none !important;
 }
 
-/*#projects .card-body {
-	background: #FFCB47 !important;
+#projects .card-body {
+	background: #00416A !important;
 	color: #646F4B;
-}*/
+}
 
 #services .col-lg-4 .text-center {
 	background: #00416A;
