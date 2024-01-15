@@ -1,0 +1,68 @@
+*{
+	font-family: 'Nunito', sans-serif;
+
+
+/*CSS Reset*/
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+.bg-info {
+	background: #72A0C1 !important;
+}
+
+.bg-dark {
+	background: #102E4A !important;
+}
+
+
+.bg-secondary {
+	background: #8AA1B1 !important;
+}
+
+/*#landing {
+	color: #fff;
+	background-image: url('https://wallpapercave.com/wp/wp9109445.jpg') !important;
+	background-size: cover !important;
+	background-attachment: fixed !important;
+}*/
+
+#landing img  {
+	opacity: 0.75 !important;
+}
+
+#landing-text {
+	background: rgba(0, 0, 0, 0.7);
+	border-radius: 15px;
+}
+
+#projects .card {
+	border: none !important;
+}
+
+/*#projects .card-body {
+	background: #FFCB47 !important;
+	color: #646F4B;
+}*/
+
+#services .col-lg-4 .text-center {
+	background: #00416A;
+}
+
+#nav11 {
+	background: #00416A;
+
+}
+
+
+/*#pro3 .card-body {
+	background: #00416A !important;
+	border: #00416A !important; 
+}
+*/
